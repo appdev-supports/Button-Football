@@ -1,6 +1,6 @@
 # Button-Football
 
-The carnival of the football game has started again. There are two teams in the game. They represent the players with buttons. Each team can choose the color and style of their buttons, and see which team can shoot the most ball into the opponent's goal within two minutes, so that it can get high score. Everybody look forward to it! Is the biggest winner you?
+足球比赛的狂欢又开始了，喜欢足球的少年看过来哦！游戏里，共有两个队，用按钮代表球员，每个队可以选择自己按钮的颜色与样式，看哪个队能在两分钟之内将最多的球射进对方的球门，就可以获得高分。大家共同期待吧！最大的赢家会是你吗？
 
 ![Alt text](https://github.com/appdev-supports/Button-Football/blob/master/IMG_01.png)
 
